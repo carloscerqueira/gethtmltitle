@@ -1,0 +1,2 @@
+Fiz esse projeto enquanto estudava go, para, ser um módulo, que:
+- Navega até uma página HTML, recebendo um parâmetro variático de urls e retornando o título que está contido dentro da tag <title> das urls passadas.
